@@ -10,7 +10,7 @@ My career has been spent behind enterprise firewalls—stewarding the NBA's glob
 ### 🛠️ Technical Depth & Implementation
 I maintain active technical currency across the stack. I am the "Surgical Fixer" who dives into the **"seams"** between technical domains to unblock failures that nobody else owns.
 
-*   **Hands-on Stack:** C#, Java, Perl, SQL (T-SQL/SAP HANA/Oracle), JavaScript/Node.js, Unix Shell.
+*   **Hands-on Stack:** C#, Java, Perl, SQL (T-SQL/SAP HANA/Oracle), JavaScript/Node.js/Velo (Wix), Unix Shell.
 *   **Current Focus:** Agentic AI Orchestration, Deterministic Prompt Engineering, and JSON-based continuity architectures.
 *   **Surgical Diagnosis:** Tracing and correcting failures across complex, multi-layer stacks (Ingestion, ETL, DB, API).
 
