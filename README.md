@@ -24,4 +24,14 @@ I believe a technology leader's most important commit is the **Operating System 
 3. **Engineering Physics:** Designing lightweight governance that accelerates coordination without creating bureaucratic overhead.
 
 ---
+
+### 📂 Technical Artifacts & Deep Dives
+For a deeper look into my architectural methodology and technical judgment:
+
+*   **[The Engineering OS Manifesto](https://gist.github.com/jledwith71/YOUR_GIST_ID_HERE):** A recipe for scaling the 50–500 person inflection point without creating bureaucracy.
+*   **[AI Continuity Architecture](https://gist.github.com/jledwith71/YOUR_GIST_ID_HERE):** Sample schema for maintaining deterministic state in multi-agent AI pipelines.
+*   **[The Steward's Stack (/uses)](https://gist.github.com/jledwith71/YOUR_GIST_ID_HERE):** A curated look at the tools I leverage to bridge the gap between system and decision.
+
+---
+
 📫 [jledwith@alum.mit.edu](mailto:jledwith@alum.mit.edu) | [LinkedIn](https://www.linkedin.com/in/johnjledwith)
