@@ -28,9 +28,9 @@ I believe a technology leader's most important commit is the **Operating System 
 ### 📂 Technical Artifacts & Deep Dives
 For a deeper look into my architectural methodology and technical judgment:
 
-*   **[The Engineering OS Manifesto](https://gist.github.com/jledwith71/YOUR_GIST_ID_HERE):** A recipe for scaling the 50–500 person inflection point without creating bureaucracy.
-*   **[AI Continuity Architecture](https://gist.github.com/jledwith71/YOUR_GIST_ID_HERE):** Sample schema for maintaining deterministic state in multi-agent AI pipelines.
-*   **[The Steward's Stack (/uses)](https://gist.github.com/jledwith71/YOUR_GIST_ID_HERE):** A curated look at the tools I leverage to bridge the gap between system and decision.
+*   **[The Engineering OS Manifesto](https://gist.github.com/jledwith71/4d32b93c21fef0a2dd187ff037abed19):** A recipe for scaling the 50–500 person inflection point without creating bureaucracy.
+*   **[AI Continuity Architecture](https://gist.github.com/jledwith71/faa6e1afe813d50d3a56441cd009c32e):** Sample schema for maintaining deterministic state in multi-agent AI pipelines.
+*   **[The Steward's Stack (/uses)](https://gist.github.com/jledwith71/9d525db46b8e3b1c45314cec0168d959):** A curated look at the tools I leverage to bridge the gap between system and decision.
 
 ---
 
