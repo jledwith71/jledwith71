@@ -11,8 +11,19 @@ My career has been spent behind enterprise firewalls—stewarding the NBA's glob
 I maintain active technical currency across the stack. I am the "Surgical Fixer" who dives into the **"seams"** between technical domains to unblock failures that nobody else owns.
 
 *   **Hands-on Stack:** C#, Java, Perl, SQL (T-SQL/SAP HANA/Oracle), JavaScript/Node.js/Velo (Wix), Unix Shell.
-*   **Current Focus:** Agentic AI Orchestration, Deterministic Prompt Engineering, and JSON-based continuity architectures.
+*   **Current Focus:** Deterministic Prompt Engineering, JSON-based continuity architectures.
 *   **Surgical Diagnosis:** Tracing and correcting failures across complex, multi-layer stacks (Ingestion, ETL, DB, API).
+
+---
+
+### 🤖 Governed Agentic Development
+
+I treat AI-partnered coding as a systems problem, not a productivity hack.
+I design the control layer — risk-tiered review triggers, verification
+discipline, explicit escalation paths — that governs what an agent is
+allowed to do autonomously versus what requires human sign-off.
+
+Full framework and applied example linked below (Governed Agentic Development).
 
 ---
 
@@ -30,6 +41,7 @@ For a deeper look into my architectural methodology and strategic judgment:
 
 *   **[The AI PIVOT Manifesto](https://gist.github.com/jledwith71/46c769cff966f5fdc9a2f70d3a3d591a):** A roadmap for transforming legacy organizations into intelligent, data-driven platforms.
 *   **[The Engineering OS Manifesto](https://gist.github.com/jledwith71/4d32b93c21fef0a2dd187ff037abed19):** A recipe for scaling the 50–500 person inflection point without creating bureaucracy.
+*   **[Governed Agentic Development](https://gist.github.com/jledwith71/fbe54e7ad50acdce8b3e386021012339):** A risk-tiered governance framework for delegating real implementation work to an AI agent without losing control of the parts that matter.
 *   **[AI Continuity Architecture](https://gist.github.com/jledwith71/faa6e1afe813d50d3a56441cd009c32e):** Sample schema for maintaining deterministic state in multi-agent AI pipelines.
 *   **[The Steward's Stack (/uses)](https://gist.github.com/jledwith71/9d525db46b8e3b1c45314cec0168d959):** A curated look at the tools I leverage to bridge the gap between system and decision.
 
