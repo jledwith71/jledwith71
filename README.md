@@ -11,9 +11,10 @@ My career runs on a zero-failure threshold: from the Human Genome Project throug
 ### 🛠️ Technical Depth & Implementation
 I maintain active technical currency across the stack - deployed, not demoed. I am the "Surgical Fixer" who dives into the "seams" between technical domains to unblock failures that nobody else owns.
 
-- **Recent Ship:** Personally authored and shipped a working Python integration against a third-party Graph API - six-module suite covering auth, fetch, and export - debugging real endpoint issues as the API provider's authentication method changed mid-build.
 - **Hands-on Stack:** C#, Java, Perl, Python, SQL (T-SQL/SAP HANA/Oracle), JavaScript/Node.js/Velo (Wix), Unix Shell.
-- **Surgical Diagnosis:** Tracing and correcting failures across complex, multi-layer stacks (Ingestion, ETL, DB, API).
+- **AI Toolchain:** Claude, Claude Code, Claude Projects, ChatGPT, Gemini/Gemini Gems, NotebookLM, Google Veo/Flow, Google MusicFX/MusicFX DJ, LALAL.AI, Moises.ai.
+- **Recent Ship:** Personally authored and shipped a working Python integration against a third-party Graph API — six-module suite covering auth, fetch, and export — debugging real endpoint issues as the API provider's authentication method changed mid-build.
+- **Surgical Diagnosis:** Tracing and correcting failures across complex, multi-layer stacks — from legacy Ingestion/ETL/DB/API pipelines to agentic AI systems, where the failure is a hallucinated step, a silent tool-call error, or model drift instead of a broken join.
 
 ---
 
