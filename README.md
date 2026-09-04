@@ -30,20 +30,20 @@ Full framework and applied example linked below (Governed Agentic Development).
 ### 🛡️ The "Steward of Systems" Approach
 I believe a technology leader's most important commit is the **Operating System of the team.**
 
-1. **Own the Trace:** Identifying the ambiguous failures that live between squads.
-2. **Validated Under Reality:** Shifting organizational standards from "passes testing" to "validated under production-realistic conditions."
-3. **Engineering Physics:** Designing lightweight governance that accelerates coordination without creating bureaucratic overhead.
+1. **Own the Trace:** Identifying the ambiguous failures that live between squads — and, in an agentic system, between the agents themselves.
+2. **Validated Under Reality:** Shifting organizational standards from "passes testing" to "validated under production-realistic conditions," for human and agent output alike.
+3. **Govern, Don't Just Delegate:** Designing lightweight governance — for teams and for AI agents — that accelerates coordination without creating bureaucratic overhead.
 
 ---
 
 ### 📂 Technical Artifacts & Deep Dives
 For a deeper look into my architectural methodology and strategic judgment:
 
-*   **[The AI PIVOT Manifesto](https://gist.github.com/jledwith71/46c769cff966f5fdc9a2f70d3a3d591a):** A roadmap for transforming legacy organizations into intelligent, data-driven platforms.
-*   **[The Engineering Operating System](https://gist.github.com/jledwith71/4d32b93c21fef0a2dd187ff037abed19):** The operating system for engineering teams outgrowing heroics — human and agentic alike.
-*   **[Governed Agentic Development](https://gist.github.com/jledwith71/fbe54e7ad50acdce8b3e386021012339):** A risk-tiered governance framework for delegating real implementation work to an AI agent without losing control of the parts that matter.
-*   **[AI Continuity Architecture](https://gist.github.com/jledwith71/faa6e1afe813d50d3a56441cd009c32e):** Sample schema for maintaining deterministic state in multi-agent AI pipelines.
-*   **[The Steward's Stack (/uses)](https://gist.github.com/jledwith71/9d525db46b8e3b1c45314cec0168d959):** A curated look at the tools I leverage to bridge the gap between system and decision.
+- **[The AI PIVOT Framework](https://gist.github.com/jledwith71/46c769cff966f5fdc9a2f70d3a3d591a):** A roadmap for transforming legacy organizations into intelligent, data-driven platforms.
+- **[The Engineering Operating System](https://gist.github.com/jledwith71/4d32b93c21fef0a2dd187ff037abed19):** The operating system for engineering teams outgrowing heroics — human and agentic alike.
+- **[Governed Agentic Development](https://gist.github.com/jledwith71/fbe54e7ad50acdce8b3e386021012339):** A risk-tiered governance framework for delegating real implementation work to an AI agent without losing control of the parts that matter.
+- **[AI Continuity Architecture](https://gist.github.com/jledwith71/faa6e1afe813d50d3a56441cd009c32e):** Sample schema for maintaining deterministic state in multi-agent AI pipelines.
+- **[The Steward's Stack (/uses)](https://gist.github.com/jledwith71/9d525db46b8e3b1c45314cec0168d959):** A curated look at the tools I leverage to bridge the gap between system and decision.
 
 ---
 
