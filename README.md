@@ -1,7 +1,7 @@
 # John Ledwith
 ### Platform & Technology Executive - Agentic AI, Multi-Agent Systems, Zero-to-Enterprise Scale (MIT)
 
-I build and steward mission-critical platforms - from enterprise infrastructure to deployed AI systems — where failure is immediate and the consequences are real.
+I build and steward mission-critical platforms - from enterprise infrastructure to deployed AI systems - where failure is immediate and the consequences are real.
 
 My career runs on a zero-failure threshold: from the Human Genome Project through the NBA's global system of record (22M+ nightly events) to founding a technology function from zero. That range gives me pattern recognition for where growth strains a system before it breaks.
 
