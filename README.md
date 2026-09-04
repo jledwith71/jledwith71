@@ -1,27 +1,26 @@
 # John Ledwith
-### Technology Executive & "Technical Translator" (MIT)
+### Platform & Technology Executive — Agentic AI, Multi-Agent Systems, Zero-to-Enterprise Scale (MIT)
 
-I build and steward the **Engineering Operating Systems** that allow high-stakes organizations to scale through the **50–500 person inflection point** without fracturing. 
+I build and steward mission-critical platforms — from enterprise infrastructure to deployed AI systems — where failure is immediate and the consequences are real.
 
-My career has been spent behind enterprise firewalls—stewarding the NBA's global system of record (22M+ nightly events) and internalizing mission-critical commerce infrastructure for BloomNet. Because failure in these domains carries immediate, unrecoverable consequences, my work is defined by **field reliability over demo performance.**
+My career runs on a zero-failure threshold: from the Human Genome Project through the NBA's global system of record (22M+ nightly events) to founding a technology function from zero. That range gives me pattern recognition for where growth strains a system before it breaks.
+
 
 ---
 
 ### 🛠️ Technical Depth & Implementation
-I maintain active technical currency across the stack. I am the "Surgical Fixer" who dives into the **"seams"** between technical domains to unblock failures that nobody else owns.
+I maintain active technical currency across the stack — deployed, not demoed. I am the "Surgical Fixer" who dives into the "seams" between technical domains to unblock failures that nobody else owns.
 
-*   **Hands-on Stack:** C#, Java, Perl, SQL (T-SQL/SAP HANA/Oracle), JavaScript/Node.js/Velo (Wix), Unix Shell.
-*   **Current Focus:** Deterministic Prompt Engineering, JSON-based continuity architectures.
-*   **Surgical Diagnosis:** Tracing and correcting failures across complex, multi-layer stacks (Ingestion, ETL, DB, API).
+- **Recent Ship:** Personally authored and shipped a working Python integration against a third-party Graph API — six-module suite covering auth, fetch, and export — debugging real endpoint issues as the API provider's authentication method changed mid-build.
+- **Hands-on Stack:** C#, Java, Perl, Python, SQL (T-SQL/SAP HANA/Oracle), JavaScript/Node.js/Velo (Wix), Unix Shell.
+- **Surgical Diagnosis:** Tracing and correcting failures across complex, multi-layer stacks (Ingestion, ETL, DB, API).
 
 ---
 
 ### 🤖 Governed Agentic Development
+I treat AI-partnered coding as a systems problem, not a productivity hack. I design the control layer — risk-tiered review triggers, verification discipline, explicit escalation paths — that governs what an agent is allowed to do autonomously versus what requires human sign-off.
 
-I treat AI-partnered coding as a systems problem, not a productivity hack.
-I design the control layer — risk-tiered review triggers, verification
-discipline, explicit escalation paths — that governs what an agent is
-allowed to do autonomously versus what requires human sign-off.
+This isn't theoretical. The same framework governs a multi-role AI production pipeline I built and personally operate — a persistent continuity layer, a generation layer, and an independent QA layer running a formal verdict taxonomy — with three shipped, published outputs to date. I've also designed and operated AI-assisted evaluation tools for a governance committee running an active candidate search: structured application analysis and second-interview strategy design.
 
 Full framework and applied example linked below (Governed Agentic Development).
 
